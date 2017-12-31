@@ -1,0 +1,25 @@
+{
+  "name": "runicode",
+  "version": "0.1.0",
+  "description": "Simple tool for writing runes, try it on <runicode.solsort.com>",
+  "private": true,
+  "homepage": "https://runicode.solsort.com",
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-scripts": "1.0.17"
+  },
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "prettier": "prettier --write src/*.js"
+  },
+  "devDependencies": {
+    "gh-pages": "^1.1.0",
+    "prettier": "^1.9.2"
+  }
+}
