@@ -1,4 +1,4 @@
-Simple tool for writing runes, try it on <runicode.solsort.com>
+Simple tool for writing runes, try it on <https://runicode.solsort.com>
 
 This is just a quick hack, took less than 3 hours to make.
 

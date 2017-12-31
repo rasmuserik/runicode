@@ -1,7 +1,7 @@
 {
   "name": "runicode",
   "version": "0.1.0",
-  "description": "Simple tool for writing runes, try it on <runicode.solsort.com>",
+  "description": "Simple tool for writing runes, try it on <https://runicode.solsort.com>",
   "private": true,
   "homepage": "https://runicode.solsort.com",
   "dependencies": {
